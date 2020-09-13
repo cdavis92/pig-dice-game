@@ -30,4 +30,4 @@ Pig Dice Game - A rolling dice game coded using HTML5, CSS3 and JavaScript. 2 Pl
 
 - fontawesome is used for the book icon, game controller icon, plus icon, double arrow icon and pause icon.
 
-Originally developed in November 2018.
+Originally developed in 2019.
